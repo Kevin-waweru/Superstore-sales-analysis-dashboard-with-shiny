@@ -1,0 +1,6 @@
+Pandas
+Matplotlib
+Calendar
+Plotly
+Shiny
+Faicons
